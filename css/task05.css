@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 242, 54);
+        }
+fieldset {
+    background-color: aliceblue;
+height:300px ;width: 800px;
+            }
+span {
+    background-color: coral;
+        }
+.gold {
+    background-color: gold;
+        }
+#out-dashed {
+    border: dashed;
+                }
+#inner-dashed {
+    
+    height:190px ;width: 770px;
+    border: red dashed ;
+                }
+.purpule {
+    color: rgb(102, 50, 151);
+            }
+
